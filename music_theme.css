@@ -1137,10 +1137,11 @@
 	border: none !important;
 	box-shadow: 0 0 1px 1px;
 }
-
-
-
-
-.icon {
-  background-image: url('https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/other/icons.png');
-}
+/*
+*
+* waitlist ban icon missing
+*
+*.icon {
+*  background-image: url('https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/other/icons.png');
+*}
+*/
