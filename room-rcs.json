@@ -1,0 +1,42 @@
+{
+  "room":   "Untuned",
+  "author": "WiBla, edited by Untuned",
+  "icon":   null,
+  "css":    "https://rawgit.com/Untuned/PlugDJ_VIP/master/music_theme.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot":    true,
+    "allowAutojoin":    true,
+    "allowAutograb":    true,
+    "allowSmartVote":   true,
+    "allowEmotes":      true,
+    "allowShowingMehs": false,
+    "forceSmartVote":   false
+  },
+  "ccc": {
+    "admin":            "#00bfff",
+    "ambassador":       "#9C0",
+    "host":             "#5BF",
+    "cohost":           "#58F",
+    "manager":          "#E15",
+    "bouncer":          "#F45",
+    "rdj":              "#F95",
+    "subscriber":       "#FB3",
+    "silversubscriber": null,
+    "friend":           null,
+    "user":             null
+  },
+  "images": {
+    "background":       "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/background/non-official/Plug-It-old.jpg",
+    "playback":         null,
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/chat/rank_host.png",
+    "cohost":           "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/chat/rank_cohost.png",
+    "manager":          "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/chat/rank_manager.png",
+    "bouncer":          "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/chat/rank_bouncer.png",
+    "rdj":              "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/chat/rank_dj.png",
+    "subscriber":       "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/chat/crown.png",
+    "silversubscriber": null
+  }
+}
