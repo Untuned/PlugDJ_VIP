@@ -3,6 +3,9 @@
 	to   {opacity: 1;}
 }
 /*--[PLUG]--*/
+.description.panel .value a[href*=".json"] {
+	display: none;
+}
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
 	text-shadow: 0 0 5px;
